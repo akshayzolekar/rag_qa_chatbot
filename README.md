@@ -10,7 +10,7 @@ To create embeddings run ingest.py file.
 ## Testing
 - To run locally, open a command line at the App's top-level directory and run the command:
 
-`streamlit run pdf_chatbot_AI.py`
+`streamlit run pdf_chatbot.py`
 
 ## Assumptions
 - Tables from the PDF document are converted to text data.
