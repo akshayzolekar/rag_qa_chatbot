@@ -1,0 +1,13 @@
+langchain == 0.1.0
+streamlit == 1.30.0
+transformers == 4.37.2
+requests == 2.31.0
+torch == 2.1.2
+einops == 0.7.0
+accelerate == 0.26.1
+bitsandbytes == 0.42.0
+pdfminer.six == 20231228
+bs4 == 0.0.1
+sentence_transformers == 2.2.2
+chromadb == 0.4.22
+PyMuPDF == 1.23.21
